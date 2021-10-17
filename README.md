@@ -1,4 +1,4 @@
 focs
 ----
 
-Repository for the Fundamentals of Computer Science course.
+Repository for the Foundations of Computer Science course.
