@@ -1,4 +1,4 @@
-# ece-ntua-foundations-of-computer-science
+# foundations-of-computer-science
 
 Analytical Assignments for the [Foundations of Computer Science](https://www.ece.ntua.gr/en/undergraduate/courses/3355) course, during the 8th semester of the School of Electrical and Computer Engineering at the National Technical University of Athens.
 
